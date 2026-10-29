@@ -1,0 +1,10 @@
+{
+  "name": "oyun-sunucusu",
+  "version": "1.0.0",
+  "description": "Çok oyunculu oyun sunucusu",
+  "main": "Server.js",
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "dependencies": {}
+}
